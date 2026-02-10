@@ -1,1 +1,9 @@
-
+[
+  {
+    "id": "prueba",
+    "nombre": "Plugin de Prueba",
+    "version": "1.0",
+    "descripcion": "Probando el sistema OTA de Kevin Sánchez",
+    "url_descarga": "https://raw.githubusercontent.com/kevins519/Prueba/main/Accesorios/prueba.ppk"
+  }
+]
